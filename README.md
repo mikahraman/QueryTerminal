@@ -11,6 +11,13 @@ I developed this project to practice the fundamentals of the ADO.NET (`Microsoft
 * If the query starts with `SELECT`, it dynamically detects the column names and rows from the returned data and prints them to the console as a table.
 * If the query is `INSERT`, `UPDATE`, or `DELETE`, it informs the user of the number of rows affected by the operation.
 * It catches potential errors from the database (e.g., incorrect syntax) and displays them in the console.
+<img width="908" height="409" alt="Screenshot1" src="https://github.com/user-attachments/assets/e145049c-1aa0-4873-b0ea-c0fcc2deafce" />
+<img width="928" height="354" alt="Screenshot2" src="https://github.com/user-attachments/assets/6e7d8e70-c8a0-414c-91a6-11374f25d536" />
+<img width="1188" height="265" alt="Screenshot3" src="https://github.com/user-attachments/assets/8e3bbe5c-0af9-4bcb-84eb-7cfbe63dedd7" />
+<img width="825" height="385" alt="Screenshot4" src="https://github.com/user-attachments/assets/abf4056f-8dbd-4dac-b262-ca53924a3ec1" />
+
+
+
 
 ## Technologies Used
 
